@@ -3,21 +3,28 @@ A simple and intuitive web application built with ReactJS that displays real-tim
 
 ## Features
 🌍 Search for current weather conditions by city.
+
 📊 Display key weather metrics such as temperature, humidity, and wind speed.
+
 ☀️ Dynamic weather icons to reflect real-time conditions.
+
 🌈 Easy-to-use and responsive design for seamless usage across devices.
 
 ## Technologies Used
-ReactJS: Front-end framework for building a dynamic user interface.
-OpenWeather API: Provides real-time weather data.
-CSS/Bootstrap: Styling and responsiveness.
+**ReactJS:** Front-end framework for building a dynamic user interface.
+
+**OpenWeather API:** Provides real-time weather data.
+
+**CSS**: Styling and responsiveness.
 
 ## Installation
 Sign up at OpenWeather to get your free API key.
+
 Insert them in file in ./src/Components/WeatherApp.jsx in line 17.
 
 ## Usage
 Enter the name of a city in the search bar.
+
 View the weather details, including temperature, humidity, and wind speed.
 
 ## Screenshots
